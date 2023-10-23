@@ -71,9 +71,7 @@ https://css-tricks.com/snippets/javascript/select-random-item-array/
 ## Links
 
 Github Repo - Password Gen github (https://github.com/ceewizz/PasswordGen)
-
 <<<<<<< HEAD
 Deployed Application - Password Gen live (https://ceewizz.github.io/PasswordGen/)
 =======
-Deployed Application - Password Gen live (https://ceewizz.github.io/PasswordGen/)
 >>>>>>> 81618725c13a54724ae15fbcda6a6df32ae62d95
